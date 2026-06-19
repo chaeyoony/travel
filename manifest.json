@@ -1,0 +1,18 @@
+{
+  "name": "채윤 여행기록",
+  "short_name": "여행기록",
+  "description": "채윤의 여행 기록 앱",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F4F6FA",
+  "theme_color": "#4F7EF7",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
